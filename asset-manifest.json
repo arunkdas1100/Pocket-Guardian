@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pocket-Guardian/static/css/main.41e533bd.css",
+    "main.js": "/Pocket-Guardian/static/js/main.bd1e9411.js",
+    "static/js/453.0e349b46.chunk.js": "/Pocket-Guardian/static/js/453.0e349b46.chunk.js",
+    "static/media/imagee.png": "/Pocket-Guardian/static/media/imagee.3dc574ad32e4a9e7fb62.png",
+    "index.html": "/Pocket-Guardian/index.html",
+    "main.41e533bd.css.map": "/Pocket-Guardian/static/css/main.41e533bd.css.map",
+    "main.bd1e9411.js.map": "/Pocket-Guardian/static/js/main.bd1e9411.js.map",
+    "453.0e349b46.chunk.js.map": "/Pocket-Guardian/static/js/453.0e349b46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e533bd.css",
+    "static/js/main.bd1e9411.js"
+  ]
+}
